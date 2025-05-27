@@ -11,7 +11,14 @@ Here are some of my favourite Poses:
   [In this picture](https://www.instagram.com/p/DKB2MJdPsq8/?img_index=1&igsh=MWRhdmJ5aDExbXpqdw==)
 you can see me, in a heart opening pose which is called "fish-pose".
 
-Below you can see my favourite Yoga Class, I made for my final exam.
+
+
+💚 **reach out to me**, if you feel stressed or if you feel any tension in your body - text me --> we will find a solution 💚 
+
+:pray: Namaste
+
+   Below you can see my favourite Yoga Class, I made for my final exam.
+
 
 #  Yoga Class
 
