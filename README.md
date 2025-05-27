@@ -1,5 +1,10 @@
 # About me
 
+<picture>
+  <img src="https://github.com/user-attachments/assets/430e3ffe-b954-4ff5-88d8-777d682f2f4c" width="480" height="360">
+</picture>
+
+
 Hello, I am Johanna, unfortunatley I´m not the person who talks flashy about herself.
 There is one thing I can admit, I am a Yoga Teacher. The only coding language, I know so far, is Sanskrit 😉
 
