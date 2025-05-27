@@ -7,5 +7,5 @@ Here are some of my favourite Poses:
 - Gomukasana
 - Shavasanna
 - Adhomukashanasana
-  
-(https://www.instagram.com/p/DKB2MJdPsq8/?img_index=1&igsh=MWRhdmJ5aDExbXpqdw==)
+
+  [Link to picture](https://www.instagram.com/p/DKB2MJdPsq8/?img_index=1&igsh=MWRhdmJ5aDExbXpqdw==)
