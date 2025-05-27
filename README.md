@@ -1,24 +1,32 @@
 # About me
+<details>
+<summary>Wanna see me?</summary><picture>
 
-<picture>
-  <img src="https://github.com/user-attachments/assets/430e3ffe-b954-4ff5-88d8-777d682f2f4c" width="480" height="?">
+  <img src="https://github.com/user-attachments/assets/05e82f9f-a55d-4246-b746-5677d06b9bb7" width="480" height="?">
 </picture>
+</details>
 
 
 Hello, I am Johanna, unfortunatley I´m not the person who talks flashy about herself.
+
 There is one thing I can admit, I am a Yoga Teacher. The only coding language, I know so far, is Sanskrit 😉
 
 Here are some of my favourite Poses:
-- Gomukhasana
-- Shavasana
-- Adho Mukha Svanasana
+
+
+* 🐮 Gomukhasana 
+   
+* 😴 Shavasana 
+   
+* 🐕 Adho Mukha Svanasana 
+       
   
   [In this picture](https://www.instagram.com/p/DKB2MJdPsq8/?img_index=1&igsh=MWRhdmJ5aDExbXpqdw==)
 you can see me, in a heart opening pose which is called "fish-pose".
 
 
 
-💚 **reach out to me**, if you feel stressed or if you feel any tension in your body - text me --> we will find a solution 💚 
+💚 **reach out to me**, if you feel stressed or if you feel any tension in your body 📲 call me! ⭐ we will find a solution 💚 
 
 :pray: Namaste
 
@@ -26,6 +34,8 @@ you can see me, in a heart opening pose which is called "fish-pose".
 
 
 #  Yoga Class
+
+<details>
 
 ## Opening
 
@@ -187,3 +197,5 @@ you can see me, in a heart opening pose which is called "fish-pose".
 | 1  | Seated Pose                |
 | 2  | Aum Chanting               |
 | 3  | Lotus Arms                 |
+
+</details>
